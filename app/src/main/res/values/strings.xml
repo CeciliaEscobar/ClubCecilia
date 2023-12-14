@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">pruebacecilia</string>
+
+    <string name="nombre">Nombre</string>
+
+
+    <string name="telefono">Telefono</string>
+    <string name="documento">Nro de Documento</string>
+    <string name="txt_nombre">Introduzca Nombre</string>
+    <string name="txt_telefono">Introduzca Telefono</string>
+    <string name="txt_documento">Introduzca Nro de Documento</string>
+
+    <string name="txt_club">Club Cecilia</string>
+
+    <string name="txt_sesion">Iniciar Sesion</string>
+
+    <string name="txt_resena">Bienvenidos al Club de Baloncesto.
+Aquí encontrarás una comunidad de amantes del baloncesto unidos por el amor a este emocionante deporte.
+Desde la sección principal de nuestra aplicación, podrás interactuar con los miembros y participar en nuestras actividades.
+¡Únete a nosotros y forma parte de nuestra familia de baloncesto!</string>
+    <string name="btn_enviar">Enviar</string>
+</resources>
